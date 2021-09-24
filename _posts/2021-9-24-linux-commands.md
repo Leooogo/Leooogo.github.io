@@ -46,11 +46,13 @@ export: ensure the environment variables and functions to be passed to child pro
 env: run a program in a modified environment
 
 vim: Vi IMproved, a promrammer's text editor
+  <br>
   └ :w(Write changes)
+  <br>
   └ :q(Quit)
-  
-
-
+<br>  
+<br>
+<br>
 No way!!! I struggled with Vim to exit a few days ago, but now I know how to save, quit and even not save it!
 
 That's why I cannnot stop learning👩‍💻
